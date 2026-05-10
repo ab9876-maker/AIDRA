@@ -191,8 +191,12 @@ This project demonstrates:
 ---
 
 # LinkedIn Demonstration Video
-
+* Abu Bakar
 [LinkedIn Demo Video](https://www.linkedin.com/posts/abu-bakar-7041b140a_this-video-presents-our-aic-201-course-project-ugcPost-7459283312839225344-Hj0O?utm_medium=member_desktop&rcm=ACoAAGhS8bQBIidmqsh_95-D51WhbNDzRQJJmQo&utm_source=chatgpt.com)
+
+* Adeel Yaqoob
+[LinkedIn Demo Video](https://www.linkedin.com/posts/adeelyaqoob3_aidra-is-a-hybrid-artificial-intelligence-ugcPost-7459287302557745152-N9L2)
+
 
 ---
 
