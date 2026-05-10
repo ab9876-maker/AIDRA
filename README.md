@@ -134,12 +134,9 @@ Bayesian-style probabilistic reasoning is used for:
 ```text id="0v4rj4"
 AIDRA/
 │
-├── main.py
-├── algorithms.py
-├── ui.py
+├── AIDRA.py
 ├── README.md
-├── requirements.txt
-└── assets/
+└── report.pdf
 ```
 
 ---
